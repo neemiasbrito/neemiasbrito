@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Oiii eu sou Neemias Brito, Tecnico de Rede De Computadores</h1>
-   <p align="center">Estão aqui alguns línguagens que estudo como programdor Front-end e Back-end
+  <h1 align="center">Oii eu sou Neemias Brito, Tecnico de Rede De Computadores</h2>
+   <p align="center">Estão aqui alguns línguagens que estudo como programador Front-end e Back-end
     <p align="center">
 <div align="center">
   <a href="https://github.com/duribeiro">
