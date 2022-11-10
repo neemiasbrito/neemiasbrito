@@ -1,8 +1,8 @@
 <div>
-  <h1 align="center">Oii eu sou Neemias Brito, Tecnico de Rede De Computadores</h2>
+  <h1 align="center">Oii eu sou Neemias Brito, Análise e Desenvolvimento de Sistemas</h2>
   
   
-   <p align="center">Estão aqui alguns línguagens que estudo como programador Front-end e Back-end
+   <p align="center">Estão aqui alguns línguagens que estudo como programador Front-end e Back-end 
     
   <div align="">
   <a href="https://github.com/neemiasbrito">
@@ -18,7 +18,7 @@
   <img align="center" alt="mysql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-   <img align="center" alt="angularjs" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="angularjs" height="40" width="60" src=Análise e Desenvolvimento de Sistemas
   <img align="center" alt="visual" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="bootstrap" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
  <img align="center" alt="linux" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
